@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
-    "react": "webpack --watch --mode development"
+    "start": "webpack --watch --mode development"
   },
   "author": "",
   "license": "ISC",
